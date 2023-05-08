@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Colosseum",
+        "country": "italy",
+        "description": "The Colosseum is a large oval-shaped amphitheater in Rome, Italy, built almost 2,000 years ago by the Romans. It was used for gladiator fights, animal hunts, and other public events. It could hold around 50,000 spectators and is considered one of the greatest architectural and engineering achievements of the Roman Empire. Despite damage over the centuries, much of the Colosseum still stands today and is a popular tourist attraction.",
+        "latitude": 41.8902,
+        "longitude": 12.4922,
+        "picture": "colosseum"
+    },
+    {
+        "id": 2,
+        "name": "Suez Canal",
+        "country": "egypt",
+        "description": "The Suez Canal is an artificial waterway located in Egypt, connecting the Mediterranean Sea to the Red Sea. It is approximately 120 miles long and was built in the mid-19th century to provide a shorter shipping route between Europe and Asia. The canal is a vital waterway for global trade and has greatly influenced international shipping and transportation. It is also a significant source of revenue for Egypt, as ships pay fees to use the canal.",
+        "latitude": 30.6409,
+        "longitude": 32.3612,
+        "picture": "suez canal"
+    },
+    {
+        "id": 3,
+        "name": "Golden Gate Bridge",
+        "country": "usa",
+        "description": "The Golden Gate Bridge is a suspension bridge located in San Francisco, California, USA. It spans the Golden Gate strait, connecting the city of San Francisco to Marin County. The bridge is approximately 1.7 miles long and was completed in 1937. At the time, it was the longest and tallest suspension bridge in the world. The bridge's distinctive orange color and art deco design have made it an iconic symbol of San Francisco and one of the most famous landmarks in the United States. The Golden Gate Bridge is also a popular tourist attraction and a vital transportation link for the Bay Area.",
+        "latitude": 37.8199,
+        "longitude": -122.4783,
+        "picture": "golden gate bridge"
+    },
+    {
+        "id": 4,
+        "name": "Tokyo Skytree",
+        "country": "japan",
+        "description": "Tokyo Skytree is a broadcasting and observation tower located in Sumida, Tokyo, Japan. It is the tallest structure in Japan and one of the tallest towers in the world, standing at a height of 634 meters (2,080 feet). Completed in 2012, it has become a major tourist attraction in Tokyo, offering panoramic views of the city from its observation decks. The tower's design is inspired by traditional Japanese architecture and it also serves as a broadcasting antenna, transmitting television and radio signals to the Tokyo area.",
+        "latitude": 35.7101,
+        "longitude": 139.8107,
+        "picture": "tokyo skytree"
+    },
+]
